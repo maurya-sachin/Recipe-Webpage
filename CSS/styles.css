@@ -1,0 +1,21 @@
+body {
+    background-image:url(../img/background.webp);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    text-transform: capitalize;
+    color: chocolate;
+    background-color: wheat;
+    margin: 20px 0;
+    padding: 40px 0;
+    
+}
+
+h2 {
+    margin-left: 20px;
+    text-decoration: underline;
+}
