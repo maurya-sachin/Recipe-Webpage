@@ -26,7 +26,12 @@ h2 {
 }
 
 a {
-    text-decoration: none;
+    color: black;
+    text-decoration: none
+}
+
+a:hover{
+    color:wheat;
 }
 
 .header {
